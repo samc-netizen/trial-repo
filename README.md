@@ -9,9 +9,9 @@
 
 ---
 
-| Author | University | Course |
-|--------|------------|--------|
-| Sumit Kumar Chandwani | VIT Bhopal University | Programming in Java |
+| Author | Course |
+|--------|--------|
+| Sumit Kumar Chandwani | Programming in Java |
 
 </div>
 
